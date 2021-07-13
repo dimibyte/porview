@@ -13,10 +13,10 @@
 ---
 #### Compile and install
 
-`fluid -c porview.fl`
-`autoreconf --install`
-`mkdir build`
-`cd build`
-`../configure`
-`make`
-`sudo make install`
+`fluid -c porview.fl`  
+`autoreconf --install`  
+`mkdir build`  
+`cd build`  
+`../configure`  
+`make`  
+`sudo make install`  
