@@ -13,7 +13,7 @@
 ---
 #### Compile and install
 
-`fltk -c porview.fl`
+`fluid -c porview.fl`
 `autoreconf --install`
 `mkdir build`
 `cd build`
